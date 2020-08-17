@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Mahout Spark bindings
+Implementation-Version: 0.13.0
+Archiver-Version: Plexus Archiver
+Built-By: pat
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Mahout Spark bindings
+Implementation-Vendor-Id: org.apache.mahout
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_102
+Specification-Version: 0.13.0
+Implementation-Vendor: The Apache Software Foundation
+
